@@ -1,0 +1,4 @@
+CompileFlags:
+  Add: 
+    - "-IG:/VS_Code_Document/SpeechContestProcessManagementSystem_HM/include"
+ 
